@@ -1,0 +1,70 @@
+	.CFUserTextEncoding
+	.android/
+	.buildkite-build
+	.bundle/
+	.cache/
+	.config/
+	.cups/
+	.dlv/
+	.docker/
+	.docker_bash_history
+	.dropbox/
+	.fig.dotfiles.bak/
+	.fig/
+	.gem/
+	.git_template/
+	.gitflow_export
+	.gitignore_global
+	.gnupg/
+	.guard_history
+	.hgignore_global
+	.irb-history
+	.jiradev/
+	.lesshst
+	.local/
+	.m2/
+	.nix-defexpr/
+	.nix-profile
+	.node-gyp/
+	.npm/
+	.nvm/
+	.oh-my-zsh/
+	.passenger/
+	.pcloud/
+	.profile
+	.psql_history
+	.python_history
+	.rvm/
+	.sem.yaml
+	.solargraph/
+	.ssh/
+	.stCommitMsg
+	.viminfo
+	.vscode/
+	.webdrivers/
+	.zcompdump
+	".zcompdump-Chris\342\200\231s New MacBook Pro-5.8"
+	".zcompdump-Chris\342\200\231s New MacBook Pro-5.8.1.Chriss-New-MBP.39251"
+	".zcompdump-Chris\342\200\231s New MacBook Pro-5.8.1.Personal.local.6850"
+	".zcompdump-Chris\342\200\231s New MacBook Pro-5.9"
+	.zlogin
+	.zprofile
+	.zsh_history
+	.zsh_sessions/
+	ApkProjects/
+	Applications/
+	Code/
+	Desktop/
+	Documents/
+	Downloads/
+	Dropbox
+	Google Drive
+	Library/
+	Movies/
+	Music/
+	Pictures/
+	Public/
+	Quivr/
+	VirtualBox VMs/
+	go/
+	stats.txt
